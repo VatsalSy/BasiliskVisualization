@@ -15,7 +15,7 @@ matplotlib.rcParams['text.usetex'] = True
 matplotlib.rcParams['text.latex.preamble'] = [r'\boldmath']
 matplotlib.rcParams['text.latex.unicode'] = True
 
-Description1 = "This function is vView_v0(file, Tracer, Auxiallaryfield, bool vector)"
+Description1 = "This function is vView_v1(file, Tracer, Auxiallaryfield, bool vector)"
 Description2 = "file is compulsory. Default Auxiallaryfield is tracer f"
 Description3 = "bool vector decides between vector field or streamplot\n"
 
